@@ -1,3 +1,3 @@
 terraform {
-  source = "https://github.com/rajeshkrrajjo8/learnterraform.git"
+  source = "git::https://github.com/rajeshkrrajjo8/learnterraform.git"
 }
